@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SplinterlandsCSVProcessor": {
+      "commandName": "Project",
+      "commandLineArgs": "-s C:\\Users\\nealc\\Downloads\\splinterlands-balances.csv -t DEC"
+    }
+  }
+}
